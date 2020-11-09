@@ -2,7 +2,7 @@ This is a text file and its awesome
 
 
 <<<<<<< HEAD
-Sydi Hall was not in class today. MUah ha ha 
+Sydi Hall was in class today. yee haw
 =======
 Hi
 
