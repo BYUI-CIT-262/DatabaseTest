@@ -3,6 +3,7 @@ This is a text file and its awesome
 
 <<<<<<< HEAD
 Sydney Hall was not in class today. 
+Hello from Adam Cross
 =======
 Hi
 
